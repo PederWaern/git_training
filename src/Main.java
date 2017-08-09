@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Another from new branch");
 
         //added a comment
+        //added another comment from features
     }
 }
