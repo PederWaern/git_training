@@ -7,5 +7,7 @@ public class Main {
 
         //added a comment
         //added another comment from features
+
+		    Integer a = 2;
     }
 }
